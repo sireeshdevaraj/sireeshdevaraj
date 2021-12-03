@@ -1,7 +1,7 @@
 ### Hi there , you can call me『KūHaku』
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sireeshdevaraj&show_icons=true&theme=cobalt)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sireeshdevaraj&layout=compact)
+
 -  I'm currently learning JS
 -  Weeb Gaming Nerd
 - Old [Website](https://sirdevhub.xyz)
