@@ -2,6 +2,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sireeshdevaraj&show_icons=true&theme=cobalt)
 ![Profile views](https://gpvc.arturio.dev/SIREESHDEVARAJ)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sireeshdevaraj&theme=blue-green)
 -  I'm currently learning JS
 -  Weeb Gaming Nerd
 - Old [Website](https://sirdevhub.xyz)
