@@ -1,8 +1,9 @@
 ### Hi there , you can call me『KūHaku』
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sireeshdevaraj&show_icons=true&theme=cobalt)
 ![Profile views](https://gpvc.arturio.dev/SIREESHDEVARAJ)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sireeshdevaraj&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=sireeshdevaraj&show_icons=true&theme=cobalt)
+
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sireeshdevaraj&theme=blue-green)
+![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sireeshdevaraj&row=1)
 -  I'm currently learning JS
 -  Weeb Gaming Nerd
 - Old [Website](https://sirdevhub.xyz)
