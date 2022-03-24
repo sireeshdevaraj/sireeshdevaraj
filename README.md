@@ -4,7 +4,6 @@
 ![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sireeshdevaraj&theme=blue-green)
 ![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sireeshdevaraj&row=1)
 -  I'm currently learning JS
--  Weeb Gaming Nerd
 - Old [Website](https://sirdevhub.xyz)
 - He/Him
 - "Just a Self-learning programmer through research & development."
