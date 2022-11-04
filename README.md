@@ -4,7 +4,7 @@
 ![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sireeshdevaraj&theme=blue-green)
 ![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sireeshdevaraj&row=1)
 -  I'm currently Playing with Networking
-- [Website](https://kuuhaku.space/) and [Blog](https://kuuhaku.space/)
+- [Website](https://kuuhaku.space/) and [Blog](https://kuuhaku.space/blog)
 - He/Him
 - "Just a Self-learning programmer and University Student"
 
