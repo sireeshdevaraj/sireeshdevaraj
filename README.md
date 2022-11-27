@@ -1,10 +1,8 @@
-### Hi there , you can call me KūHaku or Sora ![Profile views](https://gpvc.arturio.dev/SIREESHDEVARAJ) [![Website naereen.github.io](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://sirdevhub.xyz)
-![Stats](https://github-readme-stats.vercel.app/api?username=sireeshdevaraj&show_icons=true&theme=cobalt)
+### Hey!!
+You can call me KūHaku(from no game no life light novel ), I'm a full stack web developer, I mainly focus on Backend, Microservices and Bots(personal hobby).
 
-![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sireeshdevaraj&theme=blue-green)
-![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sireeshdevaraj&row=1)
--  I'm currently Playing with Networking
-- [Website](https://kuuhaku.space/) and [Blog](https://kuuhaku.space/blog)
-- He/Him
-- "Just a Self-learning programmer and University Student"
-
+My personal [website](https://kuuhaku.space) and [blog](https://kuuhaku.space/blog) where I write stuff **occasionally**.
+[Shiro](https://discord.com/oauth2/authorize?client_id=909026192785551371&permissions=1395797650679&scope=bot%20applications.commands) is my Discord bot focused on manhwa and anime card collection , it can perform various small things to posting feeds of news, game discounts etc.. along with logging and moderating the server.
+[Manhwa API](https://manhwaapi.ga/) generates new manhwa recommendations for binge readers, sign up for a key now!!.
+[Npm wrapper](https://www.npmjs.com/package/anime-cards) `Not completed yet` wrappper that let's people to query from kitsu API with ease.
+[Sponsor](https://www.patreon.com/Sovereignofshadows)  if you are willing to help me pay my cloud costs.
