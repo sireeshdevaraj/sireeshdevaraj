@@ -7,6 +7,6 @@ My personal [website](https://kuuhaku.space) and [blog](https://kuuhaku.space/bl
 
 [Manhwa API](https://manhwaapi.ga/) generates new manhwa recommendations for binge readers, sign up for a key now!!.
 
-[Npm wrapper](https://www.npmjs.com/package/anime-cards) `Not completed yet` wrappper that let's people to query from kitsu API with ease.
+[Npm wrapper](https://www.npmjs.com/package/anime-cards) `Not completed yet` wrapper that let's people to query from kitsu API with ease.
 
 [Sponsor](https://www.patreon.com/Sovereignofshadows)  if you are willing to help me pay my cloud costs.
