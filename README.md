@@ -8,6 +8,8 @@ My personal [website](https://kuuhaku.space) and [blog](https://kuuhaku.space/bl
 
 [Manhwa API](https://github.com/sireeshdevaraj/SHIRO-MANHWA-API) generates new manhwa recommendations for binge readers.
 
-[Npm wrapper](https://www.npmjs.com/package/anime-cards) `Not completed yet` wrapper that let's people to query from kitsu API with ease.
+[Npm wrapper](https://www.npmjs.com/package/anime-cards) `DROPPED` wrapper that let's people to query from kitsu API with ease.
+
+[Watch Dog](https://github.com/sireeshdevaraj/service-watchdog) A simple application written in golang to keep an eye on your services on linux systems.
 
 [Sponsor](https://www.patreon.com/Sovereignofshadows)  if you are willing to help me pay my cloud costs.
