@@ -1,6 +1,6 @@
 ### Hey!!
 You can call me Sireesh, I'm a Software engineer, I mainly focus on Backend, Microservices and Bots(personal hobby).
-Learning @GoLang right now!!
+Learning GoLang and C++ right now!!
 
 My personal [website](https://kuuhaku.space) and [blog](https://kuuhaku.space/blog) where I write stuff **occasionally**.
 
